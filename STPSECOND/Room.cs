@@ -36,7 +36,7 @@ namespace STPSECOND
             Square = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Введите стоимость проживания за сутки: ");
             Price = float.Parse(Console.ReadLine());
-            Console.WriteLine("Введите 0.1 или 1 (Люкс): ");
+            Console.WriteLine("Введите 0 или 1 (Люкс): ");
             Luxury = float.Parse(Console.ReadLine());
         }
 

@@ -1,0 +1,17 @@
+C:\Users\DanSp\source\repos\STPSECOND\XUnitTestSTPSEC\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\DanSp\source\repos\STPSECOND\XUnitTestSTPSEC\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\DanSp\source\repos\STPSECOND\XUnitTestSTPSEC\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\DanSp\source\repos\STPSECOND\XUnitTestSTPSEC\bin\Debug\netcoreapp2.1\XUnitTestSTPSEC.deps.json
+C:\Users\DanSp\source\repos\STPSECOND\XUnitTestSTPSEC\bin\Debug\netcoreapp2.1\XUnitTestSTPSEC.runtimeconfig.json
+C:\Users\DanSp\source\repos\STPSECOND\XUnitTestSTPSEC\bin\Debug\netcoreapp2.1\XUnitTestSTPSEC.runtimeconfig.dev.json
+C:\Users\DanSp\source\repos\STPSECOND\XUnitTestSTPSEC\bin\Debug\netcoreapp2.1\XUnitTestSTPSEC.dll
+C:\Users\DanSp\source\repos\STPSECOND\XUnitTestSTPSEC\bin\Debug\netcoreapp2.1\XUnitTestSTPSEC.pdb
+C:\Users\DanSp\source\repos\STPSECOND\XUnitTestSTPSEC\bin\Debug\netcoreapp2.1\STPSECOND.dll
+C:\Users\DanSp\source\repos\STPSECOND\XUnitTestSTPSEC\bin\Debug\netcoreapp2.1\STPSECOND.pdb
+C:\Users\DanSp\source\repos\STPSECOND\XUnitTestSTPSEC\obj\Debug\netcoreapp2.1\XUnitTestSTPSEC.csprojAssemblyReference.cache
+C:\Users\DanSp\source\repos\STPSECOND\XUnitTestSTPSEC\obj\Debug\netcoreapp2.1\XUnitTestSTPSEC.csproj.CoreCompileInputs.cache
+C:\Users\DanSp\source\repos\STPSECOND\XUnitTestSTPSEC\obj\Debug\netcoreapp2.1\XUnitTestSTPSEC.AssemblyInfoInputs.cache
+C:\Users\DanSp\source\repos\STPSECOND\XUnitTestSTPSEC\obj\Debug\netcoreapp2.1\XUnitTestSTPSEC.AssemblyInfo.cs
+C:\Users\DanSp\source\repos\STPSECOND\XUnitTestSTPSEC\obj\Debug\netcoreapp2.1\XUnitTestSTPSEC.csproj.CopyComplete
+C:\Users\DanSp\source\repos\STPSECOND\XUnitTestSTPSEC\obj\Debug\netcoreapp2.1\XUnitTestSTPSEC.dll
+C:\Users\DanSp\source\repos\STPSECOND\XUnitTestSTPSEC\obj\Debug\netcoreapp2.1\XUnitTestSTPSEC.pdb

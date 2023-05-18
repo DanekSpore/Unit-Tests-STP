@@ -1,0 +1,11 @@
+C:\Users\DanSp\source\repos\STPSECOND\STPSECOND\bin\Debug\netcoreapp2.1\STPSECOND.deps.json
+C:\Users\DanSp\source\repos\STPSECOND\STPSECOND\bin\Debug\netcoreapp2.1\STPSECOND.runtimeconfig.json
+C:\Users\DanSp\source\repos\STPSECOND\STPSECOND\bin\Debug\netcoreapp2.1\STPSECOND.runtimeconfig.dev.json
+C:\Users\DanSp\source\repos\STPSECOND\STPSECOND\bin\Debug\netcoreapp2.1\STPSECOND.dll
+C:\Users\DanSp\source\repos\STPSECOND\STPSECOND\bin\Debug\netcoreapp2.1\STPSECOND.pdb
+C:\Users\DanSp\source\repos\STPSECOND\STPSECOND\obj\Debug\netcoreapp2.1\STPSECOND.csproj.CoreCompileInputs.cache
+C:\Users\DanSp\source\repos\STPSECOND\STPSECOND\obj\Debug\netcoreapp2.1\STPSECOND.AssemblyInfoInputs.cache
+C:\Users\DanSp\source\repos\STPSECOND\STPSECOND\obj\Debug\netcoreapp2.1\STPSECOND.AssemblyInfo.cs
+C:\Users\DanSp\source\repos\STPSECOND\STPSECOND\obj\Debug\netcoreapp2.1\STPSECOND.dll
+C:\Users\DanSp\source\repos\STPSECOND\STPSECOND\obj\Debug\netcoreapp2.1\STPSECOND.pdb
+C:\Users\DanSp\source\repos\STPSECOND\STPSECOND\obj\Debug\netcoreapp2.1\STPSECOND.csprojAssemblyReference.cache
